@@ -1,0 +1,66 @@
+body
+    {
+        font-family: "Helvetica Neue", Helvetica, Arial;
+        background-color: aqua;
+        padding: 15%;
+        margin: 0;
+    }
+
+.First
+    {
+        display: flex;
+        justify-content: space-evenly;
+        background-color: beige;
+    }
+    .first_icon
+    {
+        padding: 1px;
+        color: rgb(255, 72, 0);
+        margin-top: 40px;
+    }
+    .first_icon i
+    {
+        width: 100px;
+        height: 100px;
+    }
+
+.MiddleName
+    {
+        display: flex;
+        justify-content: space-evenly;
+        background-color: rgb(1, 196, 255);
+    }
+    
+    .second_icon
+    {
+        padding: 1px;
+        color: rgb(46, 0, 253);
+        margin-top: 40px;
+    }
+    
+    .second_icon i
+    {
+        width: 100px;
+        height: 100px;
+    }
+    
+.LastName
+    {
+        display: flex;
+        justify-content: space-evenly;
+        background-color: rgb(238, 120, 165);
+    }
+    
+    .third_icon
+    {
+        padding: 1px;
+        color: rgb(177, 240, 76);
+        margin-top: 40px;
+    }
+    
+    .third_icon i
+    {
+        width: 100px;
+        height: 100px;
+       
+    }
